@@ -18,6 +18,10 @@ This repo hosts listing screenshots.
 ![Year in Cards colorways](screenshots/yic-1-colorways.png)
 ![Year in Cards slides](screenshots/yic-2-slides.png)
 
+### Manna
+
+![Manna moments](screenshots/manna-moments.png)
+
 ### Swole Mate
 
 ![Swole Mate progression](screenshots/swole-mate-progression.png)
