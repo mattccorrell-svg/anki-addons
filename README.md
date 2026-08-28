@@ -18,6 +18,10 @@ This repo hosts listing screenshots.
 ![Year in Cards colorways](screenshots/yic-1-colorways.png)
 ![Year in Cards slides](screenshots/yic-2-slides.png)
 
+### Agent Connect
+
+![Agent Connect flow](screenshots/agent-connect-flow.png)
+
 ### Manna
 
 ![Manna moments](screenshots/manna-moments.png)
